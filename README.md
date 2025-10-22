@@ -1,6 +1,6 @@
 # 🧾 Consumer Behaviour and Shopping Pattern Analysis
 
-![Image](https://github.com/user-attachments/assets/402b8179-5551-40c3-8fe9-487ce62175a2)
+![Image](https://github.com/user-attachments/assets/4772a729-acc0-4e61-bc7f-1dbda49334d7)
 
 ## 📘 Project Overview
 This project explores **consumer shopping behaviour and purchasing patterns** using Microsoft Excel and PowerPivot.  
