@@ -114,6 +114,12 @@ The dataset contains over **3,900 purchase records**, analyzed through **PowerPi
 - The **p-value (0.589)** suggests **no significant relationship** between price per unit and frequency of purchase.  
 - Therefore, changes in product price **do not meaningfully influence** how often customers buy.
 
+- I'm always open to collaboration, feedback, or data-driven discussions!  
+Feel free to connect with me or explore more of my work here on:
+ GitHub  
+ www.linkedin.com/in/christopher-owolabi-a920729a, 
+ xto4success@gmail.com
+
 ---
 
 ## 📂 Repository Structure
