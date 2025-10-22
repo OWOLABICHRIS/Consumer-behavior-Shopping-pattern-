@@ -1,5 +1,7 @@
 # 🧾 Consumer Behaviour and Shopping Pattern Analysis
 
+![Image](https://github.com/user-attachments/assets/402b8179-5551-40c3-8fe9-487ce62175a2)
+
 ## 📘 Project Overview
 This project explores **consumer shopping behaviour and purchasing patterns** using Microsoft Excel and PowerPivot.  
 It seeks to uncover how various factors—such as **location, price, discounts, frequency, and payment methods**—influence customer purchasing habits and total sales revenue.
